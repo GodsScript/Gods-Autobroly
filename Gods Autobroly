@@ -1,4 +1,4 @@
-f Key == 'Gods Key'then
+if Key == 'Gods Key'then
 
     print('Correct Key!')
 else
